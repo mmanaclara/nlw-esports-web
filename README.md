@@ -25,6 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind](https://tailwindcss.com/)
 
 ## Utilização do projeto
 
